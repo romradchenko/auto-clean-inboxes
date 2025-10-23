@@ -14,3 +14,4 @@ and responding to important emails without cluttering your inbox.
 #### 6. Create a trigger in your App Script and select "moveAllInboxesToWorked" as the bound function. We recommend setting a daily trigger for this function.
 ### 7. Run "moveAllInboxesToWorked" once (to give all necessarily permissions)
 #### That's it! Now you can enjoy a cleaner and more organized inbox.
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/653f2b72-601c-4f9f-bcf3-989eab2837f7" />
